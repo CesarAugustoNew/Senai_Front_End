@@ -4,4 +4,3 @@ Este é o repositório criado para guardar os arquivos de atividades (SENAI)
 - HTML
 - CSS
 - JAVASCRIPT
-- ANGULAR
